@@ -65,4 +65,4 @@ Git | GitHub | Jupyter Notebook | VS Code
 ## Connect With Me
 
 - LinkedIn: https://www.linkedin.com/in/ashishseru/
-- Email: (add your professional email here)
+- Email: ashishseru@gmail.com
