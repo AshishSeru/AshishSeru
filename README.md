@@ -1,16 +1,68 @@
-## Hi there 👋
+<div align="right">
+  <img src="profile.jpg" width="180" style="border-radius:50%;" />
+</div>
 
-<!--
-**AshishSeru/AshishSeru** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hi, I'm Ashish Seru
 
-Here are some ideas to get you started:
+### MSc Artificial Intelligence | Machine Learning Engineer  
+**Engineering practical AI solutions grounded in theory.**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## About Me
+
+I am currently pursuing my MSc in Artificial Intelligence at De Montfort University Dubai.  
+My work focuses on building practical machine learning systems backed by strong theoretical foundations.
+
+I am particularly interested in:
+- Evolutionary Computing
+- Neural Systems
+- Natural Language Processing
+- Applied Machine Learning
+- Intelligent System Design
+
+---
+
+## What I'm Currently Working On
+
+- Strengthening ML fundamentals through structured implementation
+- Exploring evolutionary algorithms and optimization techniques
+- Building clean, well-documented AI projects
+- Maintaining daily GitHub consistency
+
+---
+
+## Technical Stack
+
+**Languages:**  
+Python | MATLAB | C | SQL  
+
+**AI & ML:**  
+Scikit-Learn | NumPy | Pandas | TensorFlow | PyTorch  
+
+**Tools:**  
+Git | GitHub | Jupyter Notebook | VS Code  
+
+---
+
+## Featured Domains
+
+- Machine Learning Algorithms from Scratch  
+- Evolutionary Computing Experiments  
+- Neural Network Architectures  
+- NLP Implementations  
+
+---
+
+## GitHub Analytics
+
+![Ashish's GitHub stats](https://github-readme-stats.vercel.app/api?username=AshishSeru&show_icons=true&hide_border=true)
+
+![GitHub Streak](https://streak-stats.demolab.com?user=AshishSeru&hide_border=true)
+
+---
+
+## Connect With Me
+
+- LinkedIn: https://www.linkedin.com/in/ashishseru/
+- Email: (add your professional email here)
