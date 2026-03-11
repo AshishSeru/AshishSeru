@@ -56,8 +56,6 @@ Git | GitHub | Jupyter Notebook | VS Code
 
 ## GitHub Analytics
 
-![Ashish's GitHub stats](https://github-readme-stats.vercel.app/api?username=AshishSeru&show_icons=true&hide_border=true)
-
 ![GitHub Streak](https://streak-stats.demolab.com?user=AshishSeru&hide_border=true)
 
 ---
