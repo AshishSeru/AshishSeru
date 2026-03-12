@@ -38,7 +38,7 @@ I am particularly interested in:
 Python | MATLAB | C | SQL  
 
 **AI & ML:**  
-Scikit-Learn | NumPy | Pandas | TensorFlow | PyTorch  
+Scikit-Learn | NumPy | Pandas | TensorFlow | PyTorch | RAG
 
 **Tools:**  
 Git | GitHub | Jupyter Notebook | VS Code  
